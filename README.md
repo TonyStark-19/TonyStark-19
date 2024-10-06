@@ -21,6 +21,12 @@ I'm a passionate self-taught developer currently on my journey of mastering web 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyStark-19&show_icons=true&theme=radical)
 
+## Current Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=TonyStark-19&theme=radical)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyStark-19&layout=compact&theme=radical)
+
 ### 📫 How to reach me
 - Connect with me on [LinkedIn](www.linkedin.com/in/aditya-chandel-223bb3308)
 - Check out my projects on [GitHub](https://github.com/TonyStark-19)
