@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Aditya Chandel!]
+# 👋 Hello, I'm Aditya Chandel
 
 ### 🚀 About Me
 I'm a passionate self-taught developer currently on my journey of mastering web development and programming. I love learning new technologies and building projects that solve real-world problems.
