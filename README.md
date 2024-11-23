@@ -3,11 +3,11 @@
 ### 🚀 About Me :
 I'm a passionate self-taught developer currently on my journey of mastering web development and programming. I love learning new technologies and building projects that solve real-world problems.
 
-- 🌱 I’m currently learning **JavaScript, C++, and improving my skills in HTML & CSS**
-- 💻 I’m participating in the **#100DaysOfCode challenge** and sharing my daily progress on [LinkedIn](https://www.linkedin.com/in/aditya-chandel-223bb3308)
-- 💡 I enjoy working on **Front-End Web Development** and **Problem Solving**
-- 📚 I'm also exploring **Data Structures and Algorithms** through platforms like **LeetCode** and **HackerRank**
-- 💬 Ask me about **HTML, CSS, JavaScript**, or anything related to web development!
+- 🌱 I’ve completed **JavaScript** and am currently learning **C++ and DSA**, while continuing to improve my skills in **Web development**.  
+- 💻 I’m actively participating in the **#100DaysOfCode challenge** and sharing my daily progress on [LinkedIn](https://www.linkedin.com/in/aditya-chandel-223bb3308) and [Twitter](https://twitter.com/iamaditya_3).  
+- 💡 I enjoy working on **Front-End Web Development** and tackling challenges in **Problem Solving**.  
+- 📚 I’m also exploring **Data Structures and Algorithms** through platforms like **LeetCode** and **HackerRank**.  
+- 💬 Feel free to ask me about **HTML, CSS, JavaScript**, or anything related to **web development**!  
 
 ### 🔧 Technologies & Tools :
 
