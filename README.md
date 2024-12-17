@@ -6,7 +6,7 @@ I'm a passionate self-taught developer currently on my journey of mastering web 
 - 🌱 I’ve completed **JavaScript** and am currently learning **C++ and DSA**, while continuing to improve my skills in **Web development**.  
 - 💻 I’m actively participating in the **#100DaysOfCode challenge** and sharing my daily progress on [LinkedIn](https://www.linkedin.com/in/aditya-chandel-223bb3308) and [Twitter](https://twitter.com/iamaditya_3).  
 - 💡 I enjoy working on **Front-End Web Development** and tackling challenges in **Problem Solving**.  
-- 📚 I’m also exploring **Data Structures and Algorithms** through platforms like **LeetCode** and **HackerRank**.  
+- 📚 I’m also exploring **Data Structures and Algorithms** through platforms like [**LeetCode**](https://leetcode.com/u/TonyStark19/) and [**HackerRank**](https://www.hackerrank.com/profile/adityachandel371).  
 - 💬 Feel free to ask me about **HTML, CSS, JavaScript**, or anything related to **web development**!  
 
 ### 🔧 Technologies & Tools :
@@ -22,10 +22,12 @@ I'm a passionate self-taught developer currently on my journey of mastering web 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 🌐 Socials :
+## Let's connect :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaditya_ch124) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-chandel-223bb3308) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamaditya_3)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/TonyStark19/)  
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/adityachandel371)
 
 ### 📈 GitHub Stats :
 
