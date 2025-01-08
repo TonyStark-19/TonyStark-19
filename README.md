@@ -22,10 +22,10 @@ I'm a passionate self-taught developer currently on my journey of mastering web 
 
 ### ⚙️ GitHub Analytics
 <a href="https://github.com/rohit-yadavv">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyStark-19&theme=github_dark" alt="Aditya chandel github stats" /> <t>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyStark-19&layout=compact&theme=github_dark" alt="Aditya chandel github stats" />
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TonyStark-19&show_icons=true&theme=github_dark" alt="Aditya chandel github stats" />
-        <img height="150em" src="https://streak-stats.demolab.com/?user=TonyStark-19&theme=github_dark" alt="Aditya chandel github stats" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyStark-19&theme=github_dark" alt="Aditya chandel github stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyStark-19&layout=compact&theme=github_dark" alt="Aditya chandel github stats" /> <br>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TonyStark-19&show_icons=true&theme=github_dark" alt="Aditya chandel github stats" />
+        <img height="160em" src="https://streak-stats.demolab.com/?user=TonyStark-19&theme=github_dark" alt="Aditya chandel github stats" />
 </a>
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
