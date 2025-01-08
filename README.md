@@ -20,13 +20,18 @@ I'm a passionate self-taught developer currently on my journey of mastering web 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/TonyStark19/)  
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/adityachandel371)
 
-### ⚙️ GitHub Analytics
-<a href="https://github.com/rohit-yadavv">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyStark-19&theme=github_dark" alt="Aditya chandel github stats" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyStark-19&layout=compact&theme=github_dark" alt="Aditya chandel github stats" /> <br>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TonyStark-19&show_icons=true&theme=github_dark" alt="Aditya chandel github stats" />
-        <img height="160em" src="https://streak-stats.demolab.com/?user=TonyStark-19&theme=github_dark" alt="Aditya chandel github stats" />
-</a>
+### 📈 GitHub Stats :
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyStark-19&show_icons=true&theme=tokyonight)
+
+## Current Streak :
+![GitHub Streak](https://streak-stats.demolab.com/?user=TonyStark-19&theme=tokyonight)
+
+## Productivity Stats :
+ ![coderandcreator's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyStark-19&theme=tokyonight)
+ 
+## Most Used Languages :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyStark-19&layout=compact&theme=tokyonight)
+
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
