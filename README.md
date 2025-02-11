@@ -32,6 +32,9 @@ I'm a passionate self-taught developer currently on my journey of mastering web 
 ## Most Used Languages :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyStark-19&layout=compact&theme=tokyonight)
 
+## GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=TonyStark-19&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
