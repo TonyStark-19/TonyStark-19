@@ -21,7 +21,7 @@ I'm a passionate self-taught developer currently on my journey of mastering web 
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/adityachandel371)
 
 ### 📈 GitHub Stats :
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyStark-19&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonyStark-19&show_icons=true&theme=tokyonight)
 
 ## Current Streak :
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TonyStark-19&theme=tokyonight)
@@ -34,6 +34,10 @@ I'm a passionate self-taught developer currently on my journey of mastering web 
 
 ## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=TonyStark-19&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+## Hacktoberfest 2024 badges:
+
+[![An image of @tonystark19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tonystark19)](https://holopin.io/@tonystark19)
 
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
