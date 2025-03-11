@@ -11,7 +11,7 @@ I'm a passionate self-taught developer currently on my journey of mastering web 
 
 ### 🔧 Technologies & Tools :
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,c,git,github,vscode,figma)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,c,git,github,vscode,figma,react,vercel)
 
 ## Let's connect :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaditya_ch124) 
