@@ -3,15 +3,15 @@
 ### 🚀 About Me :
 I'm a passionate self-taught developer currently on my journey of mastering web development and programming. I love learning new technologies and building projects that solve real-world problems.
 
-- 🌱 I’ve completed **JavaScript** and am currently learning **C++ and DSA**, while continuing to improve my skills in **Web development**.  
+- 🌱 I’ve completed **JavaScript** and am currently learning **C++, DSA**, and **building projects in React.js**, while continuing to improve my skills in **Web development**.  
 - 💻 I’m actively participating in the **#100DaysOfCode challenge** and sharing my daily progress on [LinkedIn](https://linkedin.com/in/aditya-chandel-dev) and [Twitter](https://twitter.com/iamaditya_3).  
 - 💡 I enjoy working on **Front-End Web Development** and tackling challenges in **Problem Solving**.  
 - 📚 I’m also exploring **Data Structures and Algorithms** through platforms like [**LeetCode**](https://leetcode.com/u/TonyStark19/) and [**HackerRank**](https://www.hackerrank.com/profile/adityachandel371).  
-- 💬 Feel free to ask me about **HTML, CSS, JavaScript**, or anything related to **web development**!  
+- 💬 Feel free to ask me about **HTML, CSS, JavaScript, React**, or anything related to **web development**!  
 
 ### 🔧 Technologies & Tools :
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,c,git,github,vscode,figma,react,vercel)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,cpp,c,git,github,vscode,figma,vercel)
 
 ## Let's connect :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaditya_ch124) 
@@ -27,7 +27,7 @@ I'm a passionate self-taught developer currently on my journey of mastering web 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TonyStark-19&theme=tokyonight)
 
 ## Productivity Stats :
- ![coderandcreator's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyStark-19&theme=tokyonight)
+![Aditya's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyStark-19&theme=tokyonight)
  
 ## Most Used Languages :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyStark-19&layout=compact&theme=tokyonight)
