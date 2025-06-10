@@ -14,11 +14,13 @@ I'm a passionate self-taught developer currently on my journey of mastering web 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,cpp,c,git,github,vscode,figma,vercel,bootstrap,tailwind,mysql)
 
 ## Let's connect :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaditya_ch124) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-chandel-dev) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamaditya_3)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/TonyStark19/)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/adityachandel371)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/aaditya_ch124)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-chandel-dev)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iamaditya_3)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/TonyStark19/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/adityachandel371)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@adityachandel371)
 
 ### 📈 GitHub Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonyStark-19&show_icons=true&theme=tokyonight)
