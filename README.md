@@ -6,17 +6,18 @@
 <h2 align="center">👋 Hello, I'm Aditya Chandel</h2>
 
 <p align="center">
-  A passionate self-taught developer on a journey to master <strong>Web Development</strong>, <strong>DSA</strong>, and <strong>Modern Tech Stacks</strong>.
+  A passionate <strong>MERN Stack Developer</strong> diving deeper into <strong>Full-Stack Web Development</strong>, while also exploring <strong>AI/ML</strong> and <strong>Data Science</strong>.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 Currently working on **React.js Projects** and improving my **C++ and DSA** skills  
-- 🔄 Participating in the **#100DaysOfCode Challenge**  
-- 🧠 Exploring **Front-End Development** and **Problem Solving**  
-- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `React`, `C++`, or `SQL`  
+- 🌱 Currently focusing on **MERN Stack Projects**  
+- 💻 Learning & building in **AI/ML** and **Data Science**  
+- 🔄 Consistently participating in the **#100DaysOfCode Challenge**  
+- 🧠 Interested in **Web Development, Problem Solving, and Machine Learning**  
+- 💬 Ask me about: `MERN`, `C++`, `DSA`, `Python`, or `SQL`  
 - 🛠️ Practicing on [LeetCode](https://leetcode.com/u/TonyStark19/) and [HackerRank](https://www.hackerrank.com/profile/adityachandel371)  
 - 📢 Sharing daily progress on [LinkedIn](https://linkedin.com/in/aditya-chandel-dev) and [Twitter](https://twitter.com/iamaditya_3)
 
@@ -24,19 +25,36 @@
 
 ### 🧰 Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,cpp,c,git,github,vscode,figma,mysql,vite,nodejs,express,postman,mongodb,java,python" />
+#### 💻 Web Development (MERN Stack)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,vite,git,github,vscode,figma,postman" />
+</p>
+
+#### 📊 Data Science & AI/ML
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="48" alt="python logo" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" height="48" alt="matplotlib logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas logo"/>
+  <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" height="48" alt="matplotlib logo"/>
+  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" height="48" alt="seaborn logo"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" height="48" alt="streamlit logo"/>
+</p>
+
+#### ⚙️ Other Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java" />
 </p>
 
 ---
 
-### 📈 GitHub Stats :
+### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonyStark-19&show_icons=true&theme=tokyonight)
 
-## Current Streak :
+## Current Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TonyStark-19&theme=tokyonight)
- 
-## Most Used Languages :
+
+## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyStark-19&layout=compact&theme=tokyonight)
 
 <p align="center">
@@ -46,7 +64,6 @@
 ---
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TonyStark-19&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8" />
 </p>
@@ -54,7 +71,6 @@
 ---
 
 ### 🌐 Let's Connect
-
 <p align="center">
   <a href="https://linkedin.com/in/aditya-chandel-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/iamaditya_3"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
