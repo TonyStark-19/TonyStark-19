@@ -43,7 +43,7 @@
 
 #### ⚙️ Other Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,mysql" />
 </p>
 
 ---
