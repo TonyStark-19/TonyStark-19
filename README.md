@@ -72,12 +72,13 @@
 
 ### 🌐 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/aditya-chandel-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/iamaditya_3"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/aaditya_ch124"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/TonyStark19/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/adityachandel371"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://medium.com/@adityachandel371"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aditya-chandel-dev" style="margin:5px;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+  <a href="https://twitter.com/iamaditya_3" style="margin:5px;"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28"/></a>
+  <a href="https://instagram.com/aaditya_ch124" style="margin:5px;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/></a>
+  <a href="https://leetcode.com/u/TonyStark19/" style="margin:5px;"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28"/></a>
+  <a href="https://www.hackerrank.com/profile/adityachandel371" style="margin:5px;"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28"/></a>
+  <a href="https://medium.com/@adityachandel371" style="margin:5px;"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="28"/></a>
+  <a href="https://www.kaggle.com/aadistark" style="margin:5px;"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="28"/></a>
 </p>
 
 ---
