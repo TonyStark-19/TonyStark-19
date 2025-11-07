@@ -83,6 +83,19 @@
 
 ---
 
+### 🌸 Hacktoberfest Achievements for year 2024 and 2025
+
+<br/>
+
+<p align="center">
+  <a href="https://holopin.io/@tonystark19" target="_blank" rel="noopener noreferrer" title="View my Holopin badges">
+    <img src="https://holopin.me/tonystark19" alt="Holopin badges of @tonystark19" width="80%" />
+  </a>
+</p>
+
+---
+
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
