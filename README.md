@@ -39,6 +39,7 @@
   <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" height="48" alt="matplotlib logo"/>
   <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" height="48" alt="seaborn logo"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" height="48" alt="streamlit logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn logo"/>
 </p>
 
 #### ⚙️ Other Languages
