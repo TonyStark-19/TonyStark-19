@@ -50,13 +50,13 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonyStark-19&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonyStark-19&show_icons=true&hide_border=true&theme=tokyonight)
 
 ## Current Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=TonyStark-19&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TonyStark-19&hide_border=true&theme=tokyonight)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyStark-19&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyStark-19&layout=compact&hide_border=true&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TonyStark-19&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repositories" width="100%" alt="@TonyStark-19's GitHub Contribution Graph" />
@@ -84,7 +84,7 @@
 
 ---
 
-### 🌸 Hacktoberfest Achievements for year 2024 and 2025
+### 🎖 Open Source & Hacktoberfest Contributions (2024–2025)
 
 <br/>
 
