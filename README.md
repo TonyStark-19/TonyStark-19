@@ -6,18 +6,20 @@
 <h2 align="center">👋 Hello, I'm Aditya Chandel</h2>
 
 <p align="center">
-  A passionate <strong>MERN Stack Developer</strong> diving deeper into <strong>Full-Stack Web Development</strong>, while also exploring <strong>AI/ML</strong> and <strong>Data Science</strong>.
+  🚀 MERN Stack Developer | 🤖 Exploring AI/ML & Data Science | 💡 Problem Solver   <br />
+  Building real-world web apps while growing every day through code.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 Currently focusing on **MERN Stack Projects**  
-- 💻 Learning & building in **AI/ML** and **Data Science**  
+- 💻 Passionate about **Full-Stack Web Development (MERN)**
+- 🤖 Currently diving deeper into **AI/ML & Data Science**
 - 🔄 Consistently participating in the **#100DaysOfCode Challenge**  
 - 🧠 Interested in **Web Development, Problem Solving, and Machine Learning**  
-- 💬 Ask me about: `MERN`, `C++`, `DSA`, `Python`, or `SQL`  
+- 💬 Ask me about: `MERN`, `C++`, `DSA`, `Python`, or `SQL`
+- 🌍 Always curious about how tech shapes the real world
 - 🛠️ Practicing on [LeetCode](https://leetcode.com/u/TonyStark19/) and [HackerRank](https://www.hackerrank.com/profile/adityachandel371)  
 - 📢 Sharing daily progress on [LinkedIn](https://linkedin.com/in/aditya-chandel-dev) and [Twitter](https://twitter.com/iamaditya_3)
 
