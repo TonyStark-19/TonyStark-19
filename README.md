@@ -29,7 +29,7 @@
 
 #### 💻 Web Development (MERN Stack)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,vite,git,github,vscode,postman,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,vite,git,github,vscode,postman,typescript,aws" />
 </p>
 
 #### 📊 Data Science & AI/ML
