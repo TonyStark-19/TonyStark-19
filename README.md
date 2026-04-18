@@ -6,7 +6,7 @@
 <h2 align="center">👋 Hello, I'm Aditya Chandel</h2>
 
 <p align="center">
-  MERN Stack Developer | Exploring AI/ML & Data Science | Problem Solver   <br />
+  MERN Stack Developer | Exploring AI/ML & Data Science | Freelancer   <br />
   Building real-world web apps while growing every day through code.
 </p>
 
