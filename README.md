@@ -2,11 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aditya%20Chandel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20%7C%20AI%2FML%20%7C%20Freelancer%20%7C%20Open%20Source&descSize=16&descAlignY=58&descColor=a9b4d4&animation=fadeIn" />
 
+<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%"/>
+
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<img align="right" alt="Profile" width="200" src="https://github.com/TonyStark-19/TonyStark-19/raw/main/Profile.png" style="border-radius:50%;"/>
 
 ### `> whoami`
 
@@ -15,11 +17,9 @@ const aditya: Developer = {
   role: "MERN Stack Developer & Freelancer",
   location: "India 🇮🇳",
   focus: ["Full-Stack Web Dev", "AI/ML", "Open Source"],
+  currently: "AI Product Dev @ Shikhram-AI",
   philosophy: "1% better every single day — it's not a goal, it's a habit.",
   ocd: "Clean code or no code. Folders are sacred.",
-  currently: "Building impactful products for startups & companies",
-  when_not_coding: ["🎵 Music", "📚 Books & Poetry", "🎬 Movies",
-                    "✍️ Writing", "🧘 Meditation", "🏋️ Fitness", "✈️ Travelling"],
 };
 ```
 
@@ -27,8 +27,9 @@ const aditya: Developer = {
 
 ### 🚀 About Me
 
+- 🤖 Currently working as **AI Product Developer** at [Shikhram-AI](https://github.com/Shikhram-AI)
 - 💼 **Freelancer** — helping startups & companies ship clean, fast, scalable websites
-- 🤖 Exploring **AI/ML** and **Data Science** — building with Python & its ecosystem
+- 🧠 Exploring **AI/ML** and **Data Science** — building with Python & its ecosystem
 - 📢 Sharing daily progress on [LinkedIn](https://linkedin.com/in/aditya-chandel-dev) & [Twitter](https://twitter.com/iamaditya_3)
 - 🔥 Consistent since **July 9, 2024** — coding, building, sharing, every single day
 - 🧹 Coding OCD: everything must be clean, structured, and intentional
@@ -92,11 +93,11 @@ const aditya: Developer = {
 
 ### 🎖️ Open Source & Hacktoberfest
 
-<p align="center">
-  <a href="https://holopin.io/@tonystark19" target="_blank" rel="noopener noreferrer" title="View my Holopin badges">
-    <img src="https://holopin.me/tonystark19" alt="Holopin badges of @tonystark19" width="80%" />
+<div align="center">
+  <a href="https://holopin.io/@tonystark19" target="_blank">
+    <img src="https://holopin.me/tonystark19" alt="@tonystark19's Holopin board" width="80%" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -125,7 +126,6 @@ const aditya: Developer = {
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityachandel371)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/TonyStark19/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/adityachandel371)
-  <a href="https://www.kaggle.com/aadistark" style="margin:5px;"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="28"/></a>
 
 </div>
 
