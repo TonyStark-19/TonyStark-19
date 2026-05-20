@@ -8,7 +8,9 @@
 
 ---
 
-<img align="right" alt="Profile" width="200" src="https://github.com/TonyStark-19/TonyStark-19/raw/main/Profile.png" style="border-radius:50%;"/>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="middle" width="65%">
 
 ### `> whoami`
 
@@ -18,10 +20,17 @@ const aditya: Developer = {
   location: "India 🇮🇳",
   focus: ["Full-Stack Web Dev", "AI/ML", "Open Source"],
   currently: "AI Product Dev @ Shikhram-AI",
-  philosophy: "1% better every single day — it's not a goal, it's a habit.",
+  philosophy: "1% better every day — it's not a goal, it's a habit.",
   ocd: "Clean code or no code. Folders are sacred.",
 };
 ```
+
+</td>
+<td valign="middle" align="center" width="35%">
+  <img src="https://github.com/TonyStark-19/TonyStark-19/raw/main/Profile.png" width="220" alt="Aditya Chandel" />
+</td>
+</tr>
+</table>
 
 ---
 
