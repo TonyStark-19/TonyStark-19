@@ -54,9 +54,15 @@ const aditya: Developer = {
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,fastapi,supabase,mongodb&theme=dark" />
 </p>
 
-#### 🎨 Styling & Dev Tools
+#### 🎨 Styling, Dev Tools & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite,git,github,vscode,postman,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite,git,github,vscode,postman,docker,aws&theme=dark" />
+</p>
+
+#### 🤖 Automation
+<p>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" title="n8n"/>
+  <img src="https://cdn.simpleicons.org/make/6D00CC" height="48" title="Make (Integromat)"/>
 </p>
 
 #### 📊 Data Science & ML
