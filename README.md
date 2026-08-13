@@ -51,7 +51,7 @@ const aditya: Developer = {
 
 #### 🌐 Frontend & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,fastapi,supabase,mongodb,redux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,fastapi,supabase,mongodb,redux&theme=dark" />
 </p>
 
 #### 🎨 Styling, Dev Tools & Cloud
